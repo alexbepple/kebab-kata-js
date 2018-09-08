@@ -3,7 +3,9 @@
     "test": "mocha --opts mocha.opts"
   },
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
   "devDependencies": {
     "esm": "^3.0.48",
     "hamjest": "^3.1.0",
